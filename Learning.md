@@ -4,7 +4,7 @@ This document outlines the fundamental web development skills you've practiced b
 Part 1: HTML - The Document's Blueprint
 HTML provides the structure and content. In this project, you learned how to create a logical layout that the browser can understand and render.
 
-Core Structure: You set up a standard HTML5 document. This is the starting point for any modern webpage and includes <!DOCTYPE html>, <html>, <head>, and <body>.
+Core Structure: You set up a standard HTML5 document. This is the starting point for any modern webpage and includes <!DOCTYPE html>, <html>, <head></head>, and <body></body>.
 
 Linking to Other Files: You learned the critical skill of connecting the three layers of a website.
 
