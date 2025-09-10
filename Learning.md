@@ -4,7 +4,7 @@ This document outlines the fundamental web development skills you've practiced b
 Part 1: HTML - The Document's Blueprint
 HTML provides the structure and content. In this project, you learned how to create a logical layout that the browser can understand and render.
 
-Core Structure: You set up a standard HTML5 document. This is the starting point for any modern webpage and includes <!DOCTYPE html>, <html>, <head></head>, and <body></body>.
+Core Structure: You set up a standard HTML5 document. This is the starting point for any modern webpage and includes <!DOCTYPE html>, <html>, <head>, and <body>.
 
 Linking to Other Files: You learned the critical skill of connecting the three layers of a website.
 
@@ -12,7 +12,7 @@ Linking to Other Files: You learned the critical skill of connecting the three l
 
 <script src="script.js" defer></script> tells the browser where to find the interactive logic. Using the defer attribute is a modern best practice that tells the browser to download the script but wait to run it until after the HTML is fully parsed, achieving the same goal as placing it at the end of the body.
 
-Semantic Elements: You used tags like <h1> (main heading), <p> (paragraph), and <button> (clickable button). Using the right tag for the right job is key to making your site accessible to all users and understandable to search engines.
+Semantic Elements: You used tags like <h1> (main heading) </h1>, <p> (paragraph) </p>, and <button> (clickable button) </button>. Using the right tag for the right job is key to making your site accessible to all users and understandable to search engines.
 
 Unique IDs: You assigned id attributes to the elements that needed to be controlled by JavaScript (e.g., id="count-display"). This is how you create a "handle" for your script to grab onto a specific element.
 
